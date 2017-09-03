@@ -1,0 +1,32 @@
+ <!doctype html>
+<link rel="stylesheet" href="style.css" />
+
+<body>
+<script src="elm.js"></script>
+<script>
+var app = Elm.Main.fullscreen();
+app.ports.speak.subscribe(function(params) {
+    var text = params[0]
+    var rate = params[1]
+    console.log(text, rate)
+    var msg = new SpeechSynthesisUtterance();
+    var voices = window.speechSynthesis.getVoices();
+    var en_voices = voices.filter((v) => v.lang[0] == 'e' && v.lang[1] == 'n')
+    console.log(en_voices)
+    msg.voice = en_voices[0];
+    msg.rate = rate
+    msg.pitch = 1
+    msg.text = text
+
+    msg.onend = function(e) {
+        app.ports.done_speaking.send(null);
+    console.log('Finished in ' + e.elapsedTime + ' seconds.');
+    };
+
+    console.log(msg);
+
+    window.speechSynthesis.speak(msg);
+
+})
+</script>
+</body>
