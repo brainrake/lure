@@ -23,6 +23,7 @@ type alias Model =
 
 type Msg
     = GenQuestion ( ( String, String ), Bool )
+    | Replay
     | DoneSpeaking
     | Choose Bool
 
@@ -93,9 +94,11 @@ view_answer which pair =
 view : Model -> Html Msg
 view model =
     div [ style [ ( "font-family", "sans" ), ( "font-size", "32px" ) ] ]
-        [ div [ style ct_style ] [ view_answer True model.pair ]
+        [ div [ onClick Replay, style [ ( "width", "800px" ), ( "text-align", "center" ) ] ] [ text "replay" ]
+        , div [ style ct_style ] [ view_answer True model.pair ]
         , div [ style ct_style ] [ view_answer False model.pair ]
-        , div [] [ br [] [], text (toString model.num_correct) ]
+        , div [ style [ ( "width", "800px" ), ( "text-align", "center" ) ] ]
+            [ br [] [], text (toString model.num_correct) ]
         ]
 
 
@@ -136,6 +139,9 @@ update msg model =
 
         DoneSpeaking ->
             ( { model | done_speaking = True }, Cmd.none )
+
+        Replay ->
+            ( model, speakit model 0.7 )
 
 
 main : Program Never Model Msg

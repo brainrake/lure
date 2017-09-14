@@ -9146,74 +9146,78 @@ var _user$project$WordPairs$word_pairs = {
 																															_0: {ctor: '_Tuple2', _0: 'bread', _1: 'bled'},
 																															_1: {
 																																ctor: '::',
-																																_0: {ctor: '_Tuple2', _0: 'froze', _1: 'flows'},
+																																_0: {ctor: '_Tuple2', _0: 'breed', _1: 'bleedf'},
 																																_1: {
 																																	ctor: '::',
-																																	_0: {ctor: '_Tuple2', _0: 'store', _1: 'stole'},
+																																	_0: {ctor: '_Tuple2', _0: 'froze', _1: 'flows'},
 																																	_1: {
 																																		ctor: '::',
-																																		_0: {ctor: '_Tuple2', _0: 'steer', _1: 'steel'},
+																																		_0: {ctor: '_Tuple2', _0: 'store', _1: 'stole'},
 																																		_1: {
 																																			ctor: '::',
-																																			_0: {ctor: '_Tuple2', _0: 'bar', _1: 'ball'},
+																																			_0: {ctor: '_Tuple2', _0: 'steer', _1: 'steel'},
 																																			_1: {
 																																				ctor: '::',
-																																				_0: {ctor: '_Tuple2', _0: 'riddle', _1: 'little'},
+																																				_0: {ctor: '_Tuple2', _0: 'bar', _1: 'ball'},
 																																				_1: {
 																																					ctor: '::',
-																																					_0: {ctor: '_Tuple2', _0: 'rack', _1: 'lack'},
+																																					_0: {ctor: '_Tuple2', _0: 'riddle', _1: 'little'},
 																																					_1: {
 																																						ctor: '::',
-																																						_0: {ctor: '_Tuple2', _0: 'rook', _1: 'look'},
+																																						_0: {ctor: '_Tuple2', _0: 'rack', _1: 'lack'},
 																																						_1: {
 																																							ctor: '::',
-																																							_0: {ctor: '_Tuple2', _0: 'Rick', _1: 'lick'},
+																																							_0: {ctor: '_Tuple2', _0: 'rook', _1: 'look'},
 																																							_1: {
 																																								ctor: '::',
-																																								_0: {ctor: '_Tuple2', _0: 'rise', _1: 'lies'},
+																																								_0: {ctor: '_Tuple2', _0: 'Rick', _1: 'lick'},
 																																								_1: {
 																																									ctor: '::',
-																																									_0: {ctor: '_Tuple2', _0: 'rob', _1: 'lob'},
+																																									_0: {ctor: '_Tuple2', _0: 'rise', _1: 'lies'},
 																																									_1: {
 																																										ctor: '::',
-																																										_0: {ctor: '_Tuple2', _0: 'rump', _1: 'lump'},
+																																										_0: {ctor: '_Tuple2', _0: 'rob', _1: 'lob'},
 																																										_1: {
 																																											ctor: '::',
-																																											_0: {ctor: '_Tuple2', _0: 'rub', _1: 'love'},
+																																											_0: {ctor: '_Tuple2', _0: 'rump', _1: 'lump'},
 																																											_1: {
 																																												ctor: '::',
-																																												_0: {ctor: '_Tuple2', _0: 'ram', _1: 'lamb'},
+																																												_0: {ctor: '_Tuple2', _0: 'rub', _1: 'love'},
 																																												_1: {
 																																													ctor: '::',
-																																													_0: {ctor: '_Tuple2', _0: 'word', _1: 'world'},
+																																													_0: {ctor: '_Tuple2', _0: 'ram', _1: 'lamb'},
 																																													_1: {
 																																														ctor: '::',
-																																														_0: {ctor: '_Tuple2', _0: 'wrist', _1: 'list'},
+																																														_0: {ctor: '_Tuple2', _0: 'word', _1: 'world'},
 																																														_1: {
 																																															ctor: '::',
-																																															_0: {ctor: '_Tuple2', _0: 'wired', _1: 'wild'},
+																																															_0: {ctor: '_Tuple2', _0: 'wrist', _1: 'list'},
 																																															_1: {
 																																																ctor: '::',
-																																																_0: {ctor: '_Tuple2', _0: 'weird', _1: 'wield'},
+																																																_0: {ctor: '_Tuple2', _0: 'wired', _1: 'wild'},
 																																																_1: {
 																																																	ctor: '::',
-																																																	_0: {ctor: '_Tuple2', _0: 'wear', _1: 'well'},
+																																																	_0: {ctor: '_Tuple2', _0: 'weird', _1: 'wield'},
 																																																	_1: {
 																																																		ctor: '::',
-																																																		_0: {ctor: '_Tuple2', _0: 'whore', _1: 'whole'},
+																																																		_0: {ctor: '_Tuple2', _0: 'wear', _1: 'well'},
 																																																		_1: {
 																																																			ctor: '::',
-																																																			_0: {ctor: '_Tuple2', _0: 'murder', _1: 'Mulder'},
+																																																			_0: {ctor: '_Tuple2', _0: 'whore', _1: 'whole'},
 																																																			_1: {
 																																																				ctor: '::',
-																																																				_0: {ctor: '_Tuple2', _0: 'mired', _1: 'mild'},
+																																																				_0: {ctor: '_Tuple2', _0: 'murder', _1: 'Mulder'},
 																																																				_1: {
 																																																					ctor: '::',
-																																																					_0: {ctor: '_Tuple2', _0: 'race', _1: 'lace'},
+																																																					_0: {ctor: '_Tuple2', _0: 'mired', _1: 'mild'},
 																																																					_1: {
 																																																						ctor: '::',
-																																																						_0: {ctor: '_Tuple2', _0: 'raid', _1: 'laid'},
-																																																						_1: {ctor: '[]'}
+																																																						_0: {ctor: '_Tuple2', _0: 'race', _1: 'lace'},
+																																																						_1: {
+																																																							ctor: '::',
+																																																							_0: {ctor: '_Tuple2', _0: 'raid', _1: 'laid'},
+																																																							_1: {ctor: '[]'}
+																																																						}
 																																																					}
 																																																				}
 																																																			}
@@ -9410,6 +9414,8 @@ var _user$project$Main$view_answer = F2(
 				}
 			});
 	});
+var _user$project$Main$DoneSpeaking = {ctor: 'DoneSpeaking'};
+var _user$project$Main$Replay = {ctor: 'Replay'};
 var _user$project$Main$view = function (model) {
 	return A2(
 		_elm_lang$html$Html$div,
@@ -9433,12 +9439,25 @@ var _user$project$Main$view = function (model) {
 				_elm_lang$html$Html$div,
 				{
 					ctor: '::',
-					_0: _elm_lang$html$Html_Attributes$style(_user$project$Main$ct_style),
-					_1: {ctor: '[]'}
+					_0: _elm_lang$html$Html_Events$onClick(_user$project$Main$Replay),
+					_1: {
+						ctor: '::',
+						_0: _elm_lang$html$Html_Attributes$style(
+							{
+								ctor: '::',
+								_0: {ctor: '_Tuple2', _0: 'width', _1: '800px'},
+								_1: {
+									ctor: '::',
+									_0: {ctor: '_Tuple2', _0: 'text-align', _1: 'center'},
+									_1: {ctor: '[]'}
+								}
+							}),
+						_1: {ctor: '[]'}
+					}
 				},
 				{
 					ctor: '::',
-					_0: A2(_user$project$Main$view_answer, true, model.pair),
+					_0: _elm_lang$html$Html$text('replay'),
 					_1: {ctor: '[]'}
 				}),
 			_1: {
@@ -9452,33 +9471,60 @@ var _user$project$Main$view = function (model) {
 					},
 					{
 						ctor: '::',
-						_0: A2(_user$project$Main$view_answer, false, model.pair),
+						_0: A2(_user$project$Main$view_answer, true, model.pair),
 						_1: {ctor: '[]'}
 					}),
 				_1: {
 					ctor: '::',
 					_0: A2(
 						_elm_lang$html$Html$div,
-						{ctor: '[]'},
 						{
 							ctor: '::',
-							_0: A2(
-								_elm_lang$html$Html$br,
-								{ctor: '[]'},
-								{ctor: '[]'}),
-							_1: {
-								ctor: '::',
-								_0: _elm_lang$html$Html$text(
-									_elm_lang$core$Basics$toString(model.num_correct)),
-								_1: {ctor: '[]'}
-							}
+							_0: _elm_lang$html$Html_Attributes$style(_user$project$Main$ct_style),
+							_1: {ctor: '[]'}
+						},
+						{
+							ctor: '::',
+							_0: A2(_user$project$Main$view_answer, false, model.pair),
+							_1: {ctor: '[]'}
 						}),
-					_1: {ctor: '[]'}
+					_1: {
+						ctor: '::',
+						_0: A2(
+							_elm_lang$html$Html$div,
+							{
+								ctor: '::',
+								_0: _elm_lang$html$Html_Attributes$style(
+									{
+										ctor: '::',
+										_0: {ctor: '_Tuple2', _0: 'width', _1: '800px'},
+										_1: {
+											ctor: '::',
+											_0: {ctor: '_Tuple2', _0: 'text-align', _1: 'center'},
+											_1: {ctor: '[]'}
+										}
+									}),
+								_1: {ctor: '[]'}
+							},
+							{
+								ctor: '::',
+								_0: A2(
+									_elm_lang$html$Html$br,
+									{ctor: '[]'},
+									{ctor: '[]'}),
+								_1: {
+									ctor: '::',
+									_0: _elm_lang$html$Html$text(
+										_elm_lang$core$Basics$toString(model.num_correct)),
+									_1: {ctor: '[]'}
+								}
+							}),
+						_1: {ctor: '[]'}
+					}
 				}
 			}
 		});
 };
-var _user$project$Main$DoneSpeaking = {ctor: 'DoneSpeaking'};
 var _user$project$Main$GenQuestion = function (a) {
 	return {ctor: 'GenQuestion', _0: a};
 };
@@ -9510,13 +9556,19 @@ var _user$project$Main$update = F2(
 						{done_speaking: false}),
 					_1: A2(_user$project$Main$speakit, model, 0.7)
 				};
-			default:
+			case 'DoneSpeaking':
 				return {
 					ctor: '_Tuple2',
 					_0: _elm_lang$core$Native_Utils.update(
 						model,
 						{done_speaking: true}),
 					_1: _elm_lang$core$Platform_Cmd$none
+				};
+			default:
+				return {
+					ctor: '_Tuple2',
+					_0: model,
+					_1: A2(_user$project$Main$speakit, model, 0.7)
 				};
 		}
 	});

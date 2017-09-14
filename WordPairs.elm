@@ -34,6 +34,7 @@ word_pairs =
     , ( "arrive", "alive" )
     , ( "correct", "collect" )
     , ( "bread", "bled" )
+    , ( "breed", "bleedf" )
     , ( "froze", "flows" )
     , ( "store", "stole" )
     , ( "steer", "steel" )
